@@ -1,0 +1,3 @@
+package { 'pdsh':
+  ensure => present
+}
